@@ -15,7 +15,7 @@ async function main() {
     try {
         await openTeams();
 
-        await delay(1000);
+        await delay(5000);
 
         await openTeams();
 
